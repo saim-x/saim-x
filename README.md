@@ -15,6 +15,7 @@
 - 📄 Know about my experiences [https://linkedin.com/in/contactsaim](https://linkedin.com/in/contactsaim)
 
 - ⚡ Fun fact **I love drill**
+<img align="left" alt="coding" width = "200" src = "https://user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

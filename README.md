@@ -1,9 +1,9 @@
 ![logo](https://media.licdn.com/dms/image/D4D16AQFYfk1JD55wLg/profile-displaybackgroundimage-shrink_350_1400/0/1692018737348?e=1704931200&v=beta&t=Qinrw7JV2l98DOKEN3_x9oiLSexzfAaIcECHPUrrrIA)
 <h1 align="center">Hi 👋, I'm Saim</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img align="right" alt="coding" width = "400" src = "https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+<img align="center" alt="coding" width = "1000" src = "https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saim-x&label=Profile%20views&color=0e75b6&style=flat" alt="saim-x" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=saim-x&label=Profile%20views&color=0e75b6&style=flat" alt="saim-x" /> </p>-->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saim-x" alt="saim-x" /></a> </p>
 

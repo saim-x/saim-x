@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Flutter Apps & MERN](https://github.com/saim-x)
 
-- 🌱 I’m currently learning **MERN, Flutter, Unity, Flask**
+- 🌱 I’m currently learning **MERN, Flutter, Unity, Flask & Figma**
 
 - 👨‍💻 All of my projects are available at [https://github.com/saim-x](https://github.com/saim-x)
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **x_aci@hotmail.com**
 
-- ⚡ Fun fact **I love drill**
+- ⚡ Fun fact **I've got a niche music taste – not everyone's vibe, but it's my jam.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

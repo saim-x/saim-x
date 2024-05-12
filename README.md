@@ -35,9 +35,16 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/saimm"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="saimm" /></a></p><br><br>
-
+<!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saim-x&show_icons=true&locale=en&layout=compact" alt="saim-x" /></p>
+-->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saim-x&show_icons=true&locale=en" alt="saim-x" /></p>
+<br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saim-x&" alt="saim-x" /></p>
+![saim-x's Streak](https://github-readme-streak-stats.herokuapp.com/?user=saim-x&theme=jolly&hide_border=false)
+<br>
+
+![saim-x's Stats](https://github-readme-stats.vercel.app/api?username=saim-x&theme=jolly&show_icons=true&hide_border=false&count_private=true)
+<br>
+![saim-x's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saim-x&theme=jolly&show_icons=true&hide_border=false&layout=compact)
+

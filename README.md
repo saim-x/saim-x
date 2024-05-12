@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saim-x&label=Profile%20views&color=0e75b6&style=flat" alt="saim-x" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saim-x" alt="saim-x" /></a> </p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=saim-x&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
 - 🔭 I’m currently working on [Flutter Apps & MERN](https://github.com/saim-x)
 
@@ -39,12 +40,21 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saim-x&show_icons=true&locale=en&layout=compact" alt="saim-x" /></p>
 -->
 
-<br>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=saim-x&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=saim-x&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=saim-x&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![saim-x's Streak](https://github-readme-streak-stats.herokuapp.com/?user=saim-x&theme=jolly&hide_border=false)
-<br>
 
-![saim-x's Stats](https://github-readme-stats.vercel.app/api?username=saim-x&theme=jolly&show_icons=true&hide_border=false&count_private=true)
-<br>
-![saim-x's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saim-x&theme=jolly&show_icons=true&hide_border=false&layout=compact)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=saim-x&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+### 😂 Random Dev Meme
+<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+
+---
 

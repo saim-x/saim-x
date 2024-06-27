@@ -44,6 +44,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=saim-x&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=saim-x&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<!--
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=saim-x&limit=5&theme=dark&combine_all_yearly_contributions=true)
@@ -57,7 +58,6 @@
 
 # 💁‍♂️ Support:
 <p><a href="https://www.buymeacoffee.com/saimm"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="saimm" /></a></p><br><br>
-<!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saim-x&show_icons=true&locale=en&layout=compact" alt="saim-x" /></p>
 -->
 

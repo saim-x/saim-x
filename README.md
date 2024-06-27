@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **x_aci@hotmail.com**
 
-- ⚡ Fun fact **I've got a niche music taste – not everyone's vibe, but it's my jam.**
+- ⚡ Fun fact **I produce music too**
 
 # 🔗Connect with me:
 <p align="left">

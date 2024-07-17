@@ -44,6 +44,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=saim-x&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=saim-x&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<a href="https://app.daily.dev/saimm"><img src="https://api.daily.dev/devcards/v2/ks7CU6ieiiKSD1e7tuj5Y.png?r=pfz&type=wide" width="652" alt="Muhammad Saim's Dev Card"/></a>
+
 <!--
 
 ### 🔝 Top Contributed Repo

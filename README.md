@@ -6,17 +6,15 @@
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=saim-x&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
 
-- 🔭 I’m currently working on [Flutter Apps & MERN](https://github.com/saim-x)
+- 🔭 I’m currently working on [Flutter Apps & NEXT.js](https://github.com/saim-x)
 
-- 🌱 I’m currently learning **MERN, Flutter, Unity, Flask & Figma**
+- 🌱 I’m currently learning **MERN, Flutter, NEXT.js & Flask**
 
 - 👨‍💻 All of my projects are available at [https://github.com/saim-x](https://github.com/saim-x)
 
-- 💬 Ask me about **C/C++ JS**
-
 - 📫 How to reach me **x_aci@hotmail.com**
 
-- ⚡ Fun fact **I produce music too**
+- ⚡ Fun fact **I produce music**
 
 # 🔗Connect with me:
 <p align="left">

@@ -1,3 +1,6 @@
+<picture decoding="async" loading="lazy">
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=saim-x&screen_effect=false&theme=road_trip&hide=issues&dithering=true">
+</picture>
 <h1 align="center">Hi 👋, I'm Saim</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saim-x&label=Profile%20views&color=0e75b6&style=flat" alt="saim-x" /> </p>

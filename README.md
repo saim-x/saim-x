@@ -1,6 +1,9 @@
 <picture decoding="async" loading="lazy">
   <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=saim-x&screen_effect=false&theme=road_trip&hide=issues&dithering=true">
 </picture>
+<picture decoding="async" loading="lazy">
+  <img alt="github" width=100% src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif">
+</picture>
 <!--
 <h1 align="center">Hi 👋, I'm Saim</h1>
 -->

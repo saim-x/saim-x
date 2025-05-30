@@ -1,9 +1,28 @@
 <picture decoding="async" loading="lazy">
   <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=saim-x&screen_effect=false&theme=road_trip&hide=issues&dithering=true">
 </picture>
+
+<td style="vertical-align: top; padding: 10px; width: 100%;">
+  <p align="center" style="">
+    Hi, this is Saim
+  </p>
+  <pre style="text-align: left;">
+Full-stack web & app dev  
+MERN • Next.js • Flutter  
+&nbsp;  
+MLOps • Agentic AI & Protocols  
+DevOps • Docker • AWS  
+RL Techniques & Papers  
+&nbsp;  
+Right now, I’m building AI-native SaaS & orchestrated LLM pipelines
+  </pre>
+</td>
+
+<!--
 <picture decoding="async" loading="lazy">
   <img alt="github" width=100% src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif">
 </picture>
+-->
 <!--
 <h1 align="center">Hi 👋, I'm Saim</h1>
 -->
